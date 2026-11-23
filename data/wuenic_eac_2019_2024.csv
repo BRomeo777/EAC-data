@@ -1,0 +1,43 @@
+﻿Country,Year,DTP1,DTP3,MCV1
+Burundi,2019,97,93,92
+Burundi,2020,98,93,90
+Burundi,2021,96,94,90
+Burundi,2022,93,91,89
+Burundi,2023,89,89,86
+Burundi,2024,89,89,86
+DR Congo,2019,84,73,65
+DR Congo,2020,83,70,62
+DR Congo,2021,81,65,55
+DR Congo,2022,81,65,56
+DR Congo,2023,80,60,52
+DR Congo,2024,82,65,55
+Kenya,2019,96,93,92
+Kenya,2020,97,93,89
+Kenya,2021,99,95,88
+Kenya,2022,99,94,85
+Kenya,2023,97,93,85
+Kenya,2024,93,91,82
+Rwanda,2019,99,98,96
+Rwanda,2020,94,91,94
+Rwanda,2021,94,88,87
+Rwanda,2022,98,98,99
+Rwanda,2023,94,94,96
+Rwanda,2024,99,98,97
+South Sudan,2019,68,61,65
+South Sudan,2020,71,67,69
+South Sudan,2021,73,69,74
+South Sudan,2022,76,73,72
+South Sudan,2023,76,73,72
+South Sudan,2024,76,73,72
+Tanzania,2019,95,91,89
+Tanzania,2020,95,91,87
+Tanzania,2021,90,86,80
+Tanzania,2022,91,87,84
+Tanzania,2023,87,83,84
+Tanzania,2024,87,83,84
+Uganda,2019,96,93,87
+Uganda,2020,94,89,89
+Uganda,2021,97,91,90
+Uganda,2022,94,89,91
+Uganda,2023,95,91,91
+Uganda,2024,97,94,92
